@@ -2,7 +2,7 @@ Hi there! I'm Isha Khurana, a passionate data science student with a keen intere
 
 🔍 My interests include:
 
-📊 Data Analysis and Visualization
+📊 Data Analysis and Visualization/n
 🤖 Machine Learning and Predictive Modeling
 🔄 Feature Engineering and Data Preprocessing
 📈 Statistics and Applied Mathematics
